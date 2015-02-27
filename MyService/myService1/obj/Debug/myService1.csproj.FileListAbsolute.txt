@@ -1,0 +1,9 @@
+C:\demos\MyService\myService1\bin\Debug\myService1.exe.config
+C:\demos\MyService\myService1\bin\Debug\myService1.exe
+C:\demos\MyService\myService1\bin\Debug\myService1.pdb
+C:\demos\MyService\myService1\obj\Debug\myService1.csprojResolveAssemblyReference.cache
+C:\demos\MyService\myService1\obj\Debug\myService1.exe
+C:\demos\MyService\myService1\obj\Debug\myService1.pdb
+C:\demos\MyService\myService1\obj\Debug\myService1.Service1.resources
+C:\demos\MyService\myService1\obj\Debug\myService1.csproj.GenerateResource.Cache
+C:\demos\MyService\myService1\obj\Debug\myService1.ProjectInstaller.resources

@@ -1,0 +1,8 @@
+C:\demos\Wcf\Client\Client\bin\Debug\Client.exe.config
+C:\demos\Wcf\Client\Client\bin\Debug\Client.exe
+C:\demos\Wcf\Client\Client\bin\Debug\Client.pdb
+C:\demos\Wcf\Client\Client\bin\Debug\Interfacing.dll
+C:\demos\Wcf\Client\Client\bin\Debug\Interfacing.pdb
+C:\demos\Wcf\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\demos\Wcf\Client\Client\obj\Debug\Client.exe
+C:\demos\Wcf\Client\Client\obj\Debug\Client.pdb

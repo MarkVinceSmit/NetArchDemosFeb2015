@@ -1,0 +1,8 @@
+c:\demos\PatternsI\Factories\bin\Debug\Factories.exe.config
+c:\demos\PatternsI\Factories\bin\Debug\Factories.exe
+c:\demos\PatternsI\Factories\bin\Debug\Factories.pdb
+c:\demos\PatternsI\Factories\bin\Debug\Common.dll
+c:\demos\PatternsI\Factories\bin\Debug\Common.pdb
+c:\demos\PatternsI\Factories\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+c:\demos\PatternsI\Factories\obj\Debug\Factories.exe
+c:\demos\PatternsI\Factories\obj\Debug\Factories.pdb

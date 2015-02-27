@@ -1,0 +1,4 @@
+c:\demos\PatternsI\Common\bin\Debug\Common.dll
+c:\demos\PatternsI\Common\bin\Debug\Common.pdb
+c:\demos\PatternsI\Common\obj\Debug\Common.dll
+c:\demos\PatternsI\Common\obj\Debug\Common.pdb

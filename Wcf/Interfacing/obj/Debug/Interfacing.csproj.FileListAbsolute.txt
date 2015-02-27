@@ -1,0 +1,4 @@
+c:\demos\Wcf\Interfacing\bin\Debug\Interfacing.dll
+c:\demos\Wcf\Interfacing\bin\Debug\Interfacing.pdb
+c:\demos\Wcf\Interfacing\obj\Debug\Interfacing.dll
+c:\demos\Wcf\Interfacing\obj\Debug\Interfacing.pdb

@@ -1,0 +1,6 @@
+C:\demos\TransX\SimpleTransX\bin\Debug\SimpleTransX.exe.config
+C:\demos\TransX\SimpleTransX\bin\Debug\SimpleTransX.exe
+C:\demos\TransX\SimpleTransX\bin\Debug\SimpleTransX.pdb
+C:\demos\TransX\SimpleTransX\obj\Debug\SimpleTransX.csprojResolveAssemblyReference.cache
+C:\demos\TransX\SimpleTransX\obj\Debug\SimpleTransX.exe
+C:\demos\TransX\SimpleTransX\obj\Debug\SimpleTransX.pdb

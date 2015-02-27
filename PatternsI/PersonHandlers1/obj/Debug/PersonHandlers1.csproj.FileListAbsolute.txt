@@ -1,0 +1,7 @@
+c:\demos\PatternsI\PersonHandlers1\bin\Debug\PersonHandlers1.dll
+c:\demos\PatternsI\PersonHandlers1\bin\Debug\PersonHandlers1.pdb
+c:\demos\PatternsI\PersonHandlers1\bin\Debug\Common.dll
+c:\demos\PatternsI\PersonHandlers1\bin\Debug\Common.pdb
+c:\demos\PatternsI\PersonHandlers1\obj\Debug\PersonHandlers1.dll
+c:\demos\PatternsI\PersonHandlers1\obj\Debug\PersonHandlers1.pdb
+c:\demos\PatternsI\PersonHandlers1\obj\Debug\PersonHandlers1.csprojResolveAssemblyReference.cache

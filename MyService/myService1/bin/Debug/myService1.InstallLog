@@ -1,0 +1,52 @@
+﻿Installing assembly 'C:\demos\MyService\myService1\bin\Debug\myService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\demos\MyService\myService1\bin\Debug\myService1.InstallLog
+   assemblypath = C:\demos\MyService\myService1\bin\Debug\myService1.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\demos\MyService\myService1\bin\Debug\myService1.exe assembly.
+Committing assembly 'C:\demos\MyService\myService1\bin\Debug\myService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\demos\MyService\myService1\bin\Debug\myService1.InstallLog
+   assemblypath = C:\demos\MyService\myService1\bin\Debug\myService1.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\demos\MyService\myService1\bin\Debug\myService1.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\demos\MyService\myService1\bin\Debug\myService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\demos\MyService\myService1\bin\Debug\myService1.InstallLog
+   assemblypath = C:\demos\MyService\myService1\bin\Debug\myService1.exe
+Installing service Marv's crazy service...
+Creating EventLog source Marv's crazy service in log Application...
+Rolling back assembly 'C:\demos\MyService\myService1\bin\Debug\myService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\demos\MyService\myService1\bin\Debug\myService1.InstallLog
+   assemblypath = C:\demos\MyService\myService1\bin\Debug\myService1.exe
+Restoring event log to previous state for source Marv's crazy service.
+Installing assembly 'C:\demos\MyService\myService1\bin\Debug\myService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\demos\MyService\myService1\bin\Debug\myService1.InstallLog
+   assemblypath = C:\demos\MyService\myService1\bin\Debug\myService1.exe
+Installing service Marv's crazy service...
+Creating EventLog source Marv's crazy service in log Application...
+Rolling back assembly 'C:\demos\MyService\myService1\bin\Debug\myService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\demos\MyService\myService1\bin\Debug\myService1.InstallLog
+   assemblypath = C:\demos\MyService\myService1\bin\Debug\myService1.exe
+Restoring event log to previous state for source Marv's crazy service.
+Installing assembly 'C:\demos\MyService\myService1\bin\Debug\myService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\demos\MyService\myService1\bin\Debug\myService1.InstallLog
+   assemblypath = C:\demos\MyService\myService1\bin\Debug\myService1.exe
+Installing service Marv's crazy service...
+Service Marv's crazy service has been successfully installed.
+Creating EventLog source Marv's crazy service in log Application...
+Committing assembly 'C:\demos\MyService\myService1\bin\Debug\myService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\demos\MyService\myService1\bin\Debug\myService1.InstallLog
+   assemblypath = C:\demos\MyService\myService1\bin\Debug\myService1.exe

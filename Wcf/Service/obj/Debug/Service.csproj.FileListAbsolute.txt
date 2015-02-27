@@ -1,0 +1,8 @@
+c:\demos\Wcf\Service\bin\Debug\Service.exe.config
+c:\demos\Wcf\Service\bin\Debug\Service.exe
+c:\demos\Wcf\Service\bin\Debug\Service.pdb
+c:\demos\Wcf\Service\bin\Debug\Interfacing.dll
+c:\demos\Wcf\Service\bin\Debug\Interfacing.pdb
+c:\demos\Wcf\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\demos\Wcf\Service\obj\Debug\Service.exe
+c:\demos\Wcf\Service\obj\Debug\Service.pdb

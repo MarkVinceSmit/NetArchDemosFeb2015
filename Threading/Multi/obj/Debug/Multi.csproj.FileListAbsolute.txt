@@ -1,0 +1,6 @@
+C:\demos\Threading\Multi\bin\Debug\Multi.exe.config
+C:\demos\Threading\Multi\bin\Debug\Multi.exe
+C:\demos\Threading\Multi\bin\Debug\Multi.pdb
+C:\demos\Threading\Multi\obj\Debug\Multi.csprojResolveAssemblyReference.cache
+C:\demos\Threading\Multi\obj\Debug\Multi.exe
+C:\demos\Threading\Multi\obj\Debug\Multi.pdb

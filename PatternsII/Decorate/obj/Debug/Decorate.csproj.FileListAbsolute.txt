@@ -1,0 +1,6 @@
+c:\demos\PatternsII\Decorate\bin\Debug\Decorate.exe.config
+c:\demos\PatternsII\Decorate\obj\Debug\Decorate.csprojResolveAssemblyReference.cache
+c:\demos\PatternsII\Decorate\bin\Debug\Decorate.exe
+c:\demos\PatternsII\Decorate\bin\Debug\Decorate.pdb
+c:\demos\PatternsII\Decorate\obj\Debug\Decorate.exe
+c:\demos\PatternsII\Decorate\obj\Debug\Decorate.pdb

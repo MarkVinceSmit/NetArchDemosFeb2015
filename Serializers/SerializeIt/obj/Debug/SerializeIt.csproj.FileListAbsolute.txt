@@ -1,0 +1,6 @@
+c:\demos\Serializers\SerializeIt\bin\Debug\SerializeIt.exe.config
+c:\demos\Serializers\SerializeIt\obj\Debug\SerializeIt.csprojResolveAssemblyReference.cache
+c:\demos\Serializers\SerializeIt\bin\Debug\SerializeIt.exe
+c:\demos\Serializers\SerializeIt\bin\Debug\SerializeIt.pdb
+c:\demos\Serializers\SerializeIt\obj\Debug\SerializeIt.exe
+c:\demos\Serializers\SerializeIt\obj\Debug\SerializeIt.pdb
